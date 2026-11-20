@@ -4,6 +4,8 @@
 
 ---
 
+> Priorisierung heißt nicht, alles wichtig zu machen. Sie heißt, bewusst zu entscheiden, was jetzt zählt und was dafür warten muss.
+
 ## Inhalt
 
 - [11. Priorität braucht Konsequenzen](#11-priorität-braucht-konsequenzen)
