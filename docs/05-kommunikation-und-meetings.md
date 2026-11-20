@@ -4,6 +4,19 @@
 
 ---
 
+## Inhaltsverzeichnis
+
+- [09. Ein 1-on-1 ist kein Statusmeeting](#09-ein-1-on-1-ist-kein-statusmeeting)
+- [30. „Macht das Sinn?“ überprüft wenig](#30-macht-das-sinn-überprüft-wenig)
+- [31. Eine offene Tür allein reicht nicht](#31-eine-offene-tür-allein-reicht-nicht)
+- [35. Verantwortung braucht einen Namen](#35-verantwortung-braucht-einen-namen)
+- [38. Nicht nur die lautesten Stimmen hören](#38-nicht-nur-die-lautesten-stimmen-hören)
+- [39. Aufmerksamkeit im 1-on-1](#39-aufmerksamkeit-im-1-on-1)
+- [40. Remote-Arbeit braucht bewussteren Kontakt](#40-remote-arbeit-braucht-bewussteren-kontakt)
+- [48. Meetings brauchen einen Zweck](#48-meetings-brauchen-einen-zweck)
+
+---
+
 ## 09. Ein 1-on-1 ist kein Statusmeeting
 
 ### Beobachtung
