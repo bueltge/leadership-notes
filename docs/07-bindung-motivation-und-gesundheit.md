@@ -2,6 +2,10 @@
 
 [← Zur Übersicht](../README.md)
 
+---
+
+> Motivation lässt sich nicht verordnen. Führung kann aber zuhören, verstehen und die richtigen Bedingungen schaffen.
+
 ## Inhalt
 
 - [03. Entwicklungsperspektiven sichtbar machen](#03-entwicklungsperspektiven-sichtbar-machen)
