@@ -4,7 +4,7 @@
 
 ---
 
-## Inhaltsverzeichnis
+## Inhalt
 
 - [11. Priorität braucht Konsequenzen](#11-priorität-braucht-konsequenzen)
 - [33. „Kein Stress“ ist keine Priorisierung](#33-kein-stress-ist-keine-priorisierung)
