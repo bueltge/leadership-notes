@@ -2,6 +2,17 @@
 
 Verantwortung kann nur entstehen, wenn Menschen tatsächlich Gestaltungsspielraum bekommen.
 
+## Inhaltsverzeichnis
+
+- [05. Kontrolle ist nicht dasselbe wie Führung](#05-kontrolle-ist-nicht-dasselbe-wie-führung)
+- [22. Fehler nicht reflexartig selbst beheben](#22-fehler-nicht-reflexartig-selbst-beheben)
+- [23. Schweigen bedeutet nicht automatisch Zustimmung](#23-schweigen-bedeutet-nicht-automatisch-zustimmung)
+- [27. Übertrieben detaillierte Anweisungen schwächen Eigenverantwortung](#27-übertrieben-detaillierte-anweisungen-schwächen-eigenverantwortung)
+- [37. Entscheidungen brauchen Spielräume](#37-entscheidungen-brauchen-spielräume)
+- [45. „Offline klären“ darf Konflikte nicht verstecken](#45-offline-klären-darf-konflikte-nicht-verstecken)
+
+---
+
 ## 05. Kontrolle ist nicht dasselbe wie Führung
 
 ### Beobachtung
