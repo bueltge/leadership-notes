@@ -4,7 +4,9 @@
 
 ---
 
-## Inhaltsverzeichnis
+> Delegation bedeutet nicht, Arbeit abzugeben. Sie bedeutet, Menschen zu befähigen, Verantwortung selbst zu übernehmen.
+
+## Inhalt
 
 - [02. Vom Selbermachen zum Befähigen](#02-vom-selbermachen-zum-befähigen)
 - [08. Aufgaben ohne Entscheidungsbefugnis sind keine echte Delegation](#08-aufgaben-ohne-entscheidungsbefugnis-sind-keine-echte-delegation)
