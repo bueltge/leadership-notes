@@ -10,7 +10,13 @@ Dieser Gedanke prägt vor allem meine Rolle als Vater. Gleichzeitig beeinflusst 
 
 Führung bedeutet für mich nicht, auf alles eine Antwort zu haben oder alles selbst zu entscheiden. Sie bedeutet, Orientierung zu geben, Verantwortung zu übernehmen, Menschen zu befähigen und das eigene Verhalten immer wieder kritisch zu hinterfragen.
 
-Die Inhalte dieses Repositorys sind aus persönlichen Erfahrungen, Beobachtungen und Gesprächen entstanden. Sie beschreiben keinen Anspruch auf allgemeine Wahrheit. Sie halten vielmehr den Maßstab fest, an dem ich mein eigenes Verhalten als Führungskraft ausrichten möchte.
+Dabei sehe ich mich als Teil des Teams, mit einer besonderen Verantwortung für das Team: **mittendrin statt nur dabei**.
+
+Im Mittelpunkt stehen für mich die Menschen. Denn am Ende sind es nicht Prozesse, Methoden oder Strukturen, die den Unterschied machen.
+
+> **Der Mensch macht's!**
+
+Die Inhalte dieses Repositorys sind aus persönlichen Erfahrungen, Beobachtungen, Lernen und Gesprächen entstanden. Sie beschreiben keinen Anspruch auf allgemeine Wahrheit. Sie halten vielmehr den Maßstab fest, an dem ich mein eigenes Verhalten als Führungskraft ausrichten möchte.
 
 Ich erfülle diesen Anspruch nicht immer. Gerade deshalb habe ich ihn aufgeschrieben.
 
