@@ -4,54 +4,59 @@
 
 [← Zur Übersicht](../README.md)
 
-Die thematischen Kapitel bündeln die Impulse nach Inhalt. Diese Liste dient als nummerischer Index von **01 bis 49**.
+Die thematischen Kapitel bündeln die Impulse nach Inhalt.  
+Diese Liste dient als numerischer Index von **01 bis 49** und führt direkt zum jeweiligen Impuls.
 
-1. **Warum harte Arbeit allein nicht zu einer Beförderung führt**
-2. **Der erste Fehler, den jeder neue Manager macht**
-3. **Warum jüngere Mitarbeiter im ersten Jahr gehen**
-4. **Das stille Anzeichen, dass ein Mitarbeiter geht**
-5. **Warum ständige Kontrollen Ihre besten Leute vertreiben**
-6. **Warum vage Rückmeldungen zu denselben Fehlern führen**
-7. **Warum „Tolle Arbeit“ nicht die Anerkennung ist, die sich Leute wünschen**
-8. **Der Delegationsfehler, der Sie überlastet hält**
-9. **Warum Status-Updates in 1-on-1s kein Vertrauen aufbauen**
-10. **Wie Sie merken, dass Ihr Team aufgehört hat, sich freiwillig zu melden**
-11. **Warum verpasste Deadlines von unklaren Prioritäten kommen**
-12. **Wie das Einheimsen fremder Lorbeeren das Vertrauen Ihres Teams leise untergräbt**
-13. **Die Kosten des Aufschiebens eines Performance-Gesprächs**
-14. **Warum die Fünf-Jahres-Frage Leuten nicht beim Wachsen hilft**
-15. **Das fehlende „Warum“ hinter den Aufgaben, die Sie übergeben**
-16. **Die eine Check-in-Frage, die Sie diese Woche ersetzen sollten**
-17. **Warum Ihr stärkster Mitarbeiter trotzdem ehrliches Feedback braucht**
-18. **Wie man jemanden führt, der früher Ihr Kollege war**
-19. **Warum das automatische „Ja“ zu Ihrem Chef Sie Respekt kosten kann**
-20. **Das Burnout-Anzeichen, das wie Beruhigung aussieht**
-21. **Warum Lob für das ganze Team Ihren besten Mitarbeiter unsichtbar machen kann**
-22. **Warum das zu schnelle Beheben von Fehlern Ihr Team zurückhalten kann**
-23. **Warum Schweigen in einem Meeting nicht Zustimmung bedeutet**
-24. **Was Ihre Nachrichten spät in der Nacht Ihr Team lehren**
-25. **Warum das Aufheben von Feedback für das Jahresgespräch nach hinten losgeht**
-26. **Wie der Vergleich von Personen ein Team gegeneinander aufbringt**
-27. **Wie übertrieben detaillierte Anweisungen das Urteilsvermögen Ihres Teams schwächen**
-28. **Warum das Verstecken eigener Fehler Ihr Team lehrt, ihre zu verstecken**
-29. **Die Kollegen, an die Sie sich immer wenden – und was das den Rest kostet**
-30. **Warum die Frage „Macht das Sinn?“ selten echtes Verständnis zeigt**
-31. **Warum eine Open-Door-Policy trotzdem Leute ausschließt**
-32. **Das kleine Versprechen, das Manager unbemerkt brechen**
-33. **Warum Anfragen mit „Kein Stress“ so oft unerledigt bleiben**
-34. **Warum „Jederzeit gerne helfen“ selten in Anspruch genommen wird**
-35. **Warum das Kopieren des ganzen Teams dazu führt, dass niemand handelt**
-36. **Warum das Feedback-Sandwich Ihr Team darauf trainiert, sich auf schlechte Nachrichten einzustellen**
-37. **Wenn jede Entscheidung über Sie laufen muss**
-38. **Warum die laute Stimme im Meeting meistens gewinnt**
-39. **Was der Blick aufs Handy im 1-on-1 wirklich aussagt**
-40. **Warum Schweigen von Remote-Mitarbeitern nicht immer gute Nachrichten sind**
-41. **Warum ein voller Kalender nicht dasselbe ist wie gute Arbeit**
-42. **Warum das Zugeben von Ahnungslosigkeit mehr Vertrauen aufbaut**
-43. **Warum die Belohnung für Verlässlichkeit mehr Arbeit ist**
-44. **Warum das Alleinwissen keine Job-Sicherheit ist**
-45. **Wann „Lass uns das offline klären“ in Wahrheit Vermeidung ist**
-46. **Die eine Frage, die ein Projekt retten kann, bevor es beginnt**
-47. **Die Frage, die Sie Ihrem Chef vor dem nächsten Review stellen sollten**
-48. **Die eine Antwort, die sinnlose Meetings stoppt**
-49. **Warum „Sei proaktiver“ kein echtes Feedback ist**
+01. [Warum harte Arbeit allein nicht zu einer Beförderung führt](01-haltung-und-vorbild.md#01-harte-arbeit-allein-führt-nicht-automatisch-zu-einer-beförderung)
+02. [Der erste Fehler, den jeder neue Manager macht](04-delegation-und-entwicklung.md#02-vom-selbermachen-zum-befähigen)
+03. [Warum jüngere Mitarbeiter im ersten Jahr gehen](07-bindung-motivation-und-gesundheit.md#03-entwicklungsperspektiven-sichtbar-machen)
+04. [Das stille Anzeichen, dass ein Mitarbeiter geht](07-bindung-motivation-und-gesundheit.md#04-wenn-engagierte-mitarbeitende-plötzlich-still-werden)
+05. [Warum ständige Kontrollen Ihre besten Leute vertreiben](02-vertrauen-und-autonomie.md#05-kontrolle-ist-nicht-dasselbe-wie-führung)
+06. [Warum vage Rückmeldungen zu denselben Fehlern führen](03-feedback-und-anerkennung.md#06-vages-feedback-verändert-wenig)
+07. [Warum „Tolle Arbeit“ nicht die Anerkennung ist, die sich Leute wünschen](03-feedback-und-anerkennung.md#07-tolle-arbeit-ist-oft-zu-wenig)
+08. [Der Delegationsfehler, der Sie überlastet hält](04-delegation-und-entwicklung.md#08-aufgaben-ohne-entscheidungsbefugnis-sind-keine-echte-delegation)
+09. [Warum Status-Updates in 1-on-1s kein Vertrauen aufbauen](05-kommunikation-und-meetings.md#09-ein-1-on-1-ist-kein-statusmeeting)
+10. [Wie Sie merken, dass Ihr Team aufgehört hat, sich freiwillig zu melden](07-bindung-motivation-und-gesundheit.md#10-wenn-freiwilligkeit-verschwindet)
+11. [Warum verpasste Deadlines von unklaren Prioritäten kommen](06-prioritaeten-und-arbeitsorganisation.md#11-priorität-braucht-konsequenzen)
+12. [Wie das Einheimsen fremder Lorbeeren das Vertrauen Ihres Teams leise untergräbt](01-haltung-und-vorbild.md#12-fremde-lorbeeren-beschädigen-vertrauen)
+13. [Die Kosten des Aufschiebens eines Performance-Gesprächs](03-feedback-und-anerkennung.md#13-schwierige-gespräche-nicht-aufschieben)
+14. [Warum die Fünf-Jahres-Frage Leuten nicht beim Wachsen hilft](04-delegation-und-entwicklung.md#14-entwicklung-in-überschaubaren-zeiträumen)
+15. [Das fehlende „Warum“ hinter den Aufgaben, die Sie übergeben](04-delegation-und-entwicklung.md#15-das-warum-gehört-zur-aufgabe)
+16. [Die eine Check-in-Frage, die Sie diese Woche ersetzen sollten](04-delegation-und-entwicklung.md#16-nach-hindernissen-statt-nach-fertigstellung-fragen)
+17. [Warum Ihr stärkster Mitarbeiter trotzdem ehrliches Feedback braucht](03-feedback-und-anerkennung.md#17-auch-starke-mitarbeitende-brauchen-ehrliches-feedback)
+18. [Wie man jemanden führt, der früher Ihr Kollege war](04-delegation-und-entwicklung.md#18-ehemalige-kolleginnen-und-kollegen-führen)
+19. [Warum das automatische „Ja“ zu Ihrem Chef Sie Respekt kosten kann](01-haltung-und-vorbild.md#19-nicht-automatisch-ja-zum-eigenen-chef-sagen)
+20. [Das Burnout-Anzeichen, das wie Beruhigung aussieht](07-bindung-motivation-und-gesundheit.md#20-plötzliche-anpassung-kann-ein-warnsignal-sein)
+21. [Warum Lob für das ganze Team Ihren besten Mitarbeiter unsichtbar machen kann](03-feedback-und-anerkennung.md#21-anerkennung-sollte-konkrete-beiträge-sichtbar-machen)
+22. [Warum das zu schnelle Beheben von Fehlern Ihr Team zurückhalten kann](02-vertrauen-und-autonomie.md#22-fehler-nicht-reflexartig-selbst-beheben)
+23. [Warum Schweigen in einem Meeting nicht Zustimmung bedeutet](02-vertrauen-und-autonomie.md#23-schweigen-bedeutet-nicht-automatisch-zustimmung)
+24. [Was Ihre Nachrichten spät in der Nacht Ihr Team lehren](01-haltung-und-vorbild.md#24-was-nachrichten-spät-in-der-nacht-vermitteln)
+25. [Warum das Aufheben von Feedback für das Jahresgespräch nach hinten losgeht](03-feedback-und-anerkennung.md#25-feedback-gehört-in-den-alltag)
+26. [Wie der Vergleich von Personen ein Team gegeneinander aufbringt](03-feedback-und-anerkennung.md#26-menschen-miteinander-zu-vergleichen-hilft-selten)
+27. [Wie übertrieben detaillierte Anweisungen das Urteilsvermögen Ihres Teams schwächen](02-vertrauen-und-autonomie.md#27-zu-detaillierte-anweisungen-schwächen-eigenverantwortung)
+28. [Warum das Verstecken eigener Fehler Ihr Team lehrt, ihre zu verstecken](01-haltung-und-vorbild.md#28-eigene-fehler-sichtbar-machen)
+29. [Die Kollegen, an die Sie sich immer wenden – und was das den Rest kostet](04-delegation-und-entwicklung.md#29-entwicklungschancen-bewusst-verteilen)
+30. [Warum die Frage „Macht das Sinn?“ selten echtes Verständnis zeigt](05-kommunikation-und-meetings.md#30-macht-das-sinn-überprüft-wenig)
+31. [Warum eine Open-Door-Policy trotzdem Leute ausschließt](05-kommunikation-und-meetings.md#31-eine-offene-tür-allein-reicht-nicht)
+32. [Das kleine Versprechen, das Manager unbemerkt brechen](01-haltung-und-vorbild.md#32-kleine-versprechen-sind-nicht-klein)
+33. [Warum Anfragen mit „Kein Stress“ so oft unerledigt bleiben](06-prioritaeten-und-arbeitsorganisation.md#33-kein-stress-ist-keine-priorisierung)
+34. [Warum „Jederzeit gerne helfen“ selten in Anspruch genommen wird](04-delegation-und-entwicklung.md#34-unterstützung-konkret-anbieten)
+35. [Warum das Kopieren des ganzen Teams dazu führt, dass niemand handelt](05-kommunikation-und-meetings.md#35-verantwortung-braucht-einen-namen)
+36. [Warum das Feedback-Sandwich Ihr Team darauf trainiert, sich auf schlechte Nachrichten einzustellen](03-feedback-und-anerkennung.md#36-lob-und-kritik-nicht-künstlich-vermischen)
+37. [Wenn jede Entscheidung über Sie laufen muss](02-vertrauen-und-autonomie.md#37-entscheidungen-brauchen-spielräume)
+38. [Warum die laute Stimme im Meeting meistens gewinnt](05-kommunikation-und-meetings.md#38-nicht-nur-die-lautesten-stimmen-hören)
+39. [Was der Blick aufs Handy im 1-on-1 wirklich aussagt](05-kommunikation-und-meetings.md#39-aufmerksamkeit-im-1-on-1)
+40. [Warum Schweigen von Remote-Mitarbeitern nicht immer gute Nachrichten sind](05-kommunikation-und-meetings.md#40-remote-arbeit-braucht-bewussteren-kontakt)
+41. [Warum ein voller Kalender nicht dasselbe ist wie gute Arbeit](06-prioritaeten-und-arbeitsorganisation.md#41-ein-voller-kalender-ist-kein-leistungsnachweis)
+42. [Warum das Zugeben von Ahnungslosigkeit mehr Vertrauen aufbaut](01-haltung-und-vorbild.md#42-nichtwissen-zuzugeben-schafft-glaubwürdigkeit)
+43. [Warum die Belohnung für Verlässlichkeit mehr Arbeit ist](04-delegation-und-entwicklung.md#43-gute-leistung-nicht-ausschließlich-mit-mehr-arbeit-belohnen)
+44. [Warum das Alleinwissen keine Job-Sicherheit ist](04-delegation-und-entwicklung.md#44-wissen-teilen-statt-unersetzbarkeit-anstreben)
+45. [Wann „Lass uns das offline klären“ in Wahrheit Vermeidung ist](02-vertrauen-und-autonomie.md#45-offline-klären-darf-konflikte-nicht-verstecken)
+46. [Die eine Frage, die ein Projekt retten kann, bevor es beginnt](06-prioritaeten-und-arbeitsorganisation.md#46-projekte-mit-einem-premortem-beginnen)
+47. [Die Frage, die Sie Ihrem Chef vor dem nächsten Review stellen sollten](06-prioritaeten-und-arbeitsorganisation.md#47-erfolgskriterien-für-die-eigene-entwicklung-klären)
+48. [Die eine Antwort, die sinnlose Meetings stoppt](05-kommunikation-und-meetings.md#48-meetings-brauchen-einen-zweck)
+49. [Warum „Sei proaktiver“ kein echtes Feedback ist](03-feedback-und-anerkennung.md#49-sei-proaktiver-ist-kein-konkretes-feedback)
+
+---
+
+[← Zurück zur README](../README.md)
