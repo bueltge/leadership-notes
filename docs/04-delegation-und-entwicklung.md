@@ -1,7 +1,10 @@
 ## Delegation & Entwicklung
 
-[← Zur Übersicht](../README.md)  
-Delegation bedeutet nicht, Arbeit abzugeben. Sie bedeutet, Menschen zu befähigen, Verantwortung selbst zu übernehmen.
+[← Zur Übersicht](../README.md)
+
+---
+
+> Delegation bedeutet nicht, Arbeit abzugeben. Sie bedeutet, Menschen zu befähigen, Verantwortung selbst zu übernehmen.
 
 ### Inhalt
 - [02. Vom Selbermachen zum Befähigen](#02-vom-selbermachen-zum-befähigen)
@@ -14,6 +17,8 @@ Delegation bedeutet nicht, Arbeit abzugeben. Sie bedeutet, Menschen zu befähige
 - [34. Unterstützung konkret anbieten](#34-unterstützung-konkret-anbieten)
 - [43. Gute Leistung nicht ausschließlich mit mehr Arbeit belohnen](#43-gute-leistung-nicht-ausschließlich-mit-mehr-arbeit-belohnen)
 - [44. Wissen teilen statt Unersetzbarkeit anstreben](#44-wissen-teilen-statt-unersetzbarkeit-anstreben)
+
+---
 
 ### 02. Vom Selbermachen zum Befähigen
 #### Beobachtung
