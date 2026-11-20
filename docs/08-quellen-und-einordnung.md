@@ -2,6 +2,19 @@
 
 [← Zur Übersicht](../README.md)
 
+---
+
+### Inhalt
+
+- [Persönlicher Hintergrund](#persönlicher-hintergrund)
+- [Beobachtung, Interpretation und Führungsprinzip](#beobachtung-interpretation-und-führungsprinzip)
+- [Externe Inspiration](#externe-inspiration)
+- [Keine Diagnosen](#keine-diagnosen)
+- [Kontext ist entscheidend](#kontext-ist-entscheidend)
+- [Entwicklung der Sammlung](#entwicklung-der-sammlung)
+
+---
+
 ### Persönlicher Hintergrund
 Diese Sammlung ist aus Erfahrungen, Beobachtungen und Gesprächen rund um Führung und Zusammenarbeit entstanden. Sie stellt weder eine wissenschaftliche Publikation noch ein abgeschlossenes Führungsmodell dar.  
 **Wie möchte ich führen und woran möchte ich mein eigenes Verhalten messen?**
