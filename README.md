@@ -95,6 +95,28 @@ Wie könnte das im Alltag konkret aussehen?
 
 Welche Frage kann ich mir selbst dazu stellen?
 
+## Werkzeuge, die ich in der Führung nutze
+
+Neben den hier beschriebenen Führungsimpulsen nutze ich auch konkrete
+Methoden und Werkzeuge, um Gespräche über Motivation, Zusammenarbeit
+und persönliche Entwicklung zu unterstützen.
+
+### Moving Motivators
+
+Ein Werkzeug, das ich insbesondere in Gesprächen mit Mitarbeitenden,
+Feedbackgesprächen und teilweise auch im Recruiting nutze, sind die
+[Moving Motivators](https://github.com/bueltge/Moving-Motivators).
+
+Sie helfen dabei, nicht nur darüber zu sprechen, **was** jemanden
+motiviert, sondern gemeinsam sichtbar zu machen, **welche Motivatoren
+für eine Person besonders wichtig sind und wie Veränderungen darauf
+wirken können**.
+
+Für die digitale Nutzung habe ich eine eigene browserbasierte Variante
+erstellt:
+
+→ [Moving Motivators auf GitHub](https://github.com/bueltge/Moving-Motivators)
+
 ## Quellen und Inspiration
 
 Die Inhalte basieren überwiegend auf eigenen Erfahrungen, Beobachtungen und Gesprächen.
