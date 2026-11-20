@@ -1,13 +1,18 @@
 ## Bindung, Motivation & Gesundheit
 
-[← Zur Übersicht](../README.md)  
-Motivation lässt sich nicht verordnen. Führung kann aber zuhören, verstehen und die richtigen Bedingungen schaffen.
+[← Zur Übersicht](../README.md)
+
+---
+
+> Motivation lässt sich nicht verordnen. Führung kann aber zuhören, verstehen und die richtigen Bedingungen schaffen.
 
 ### Inhalt
 - [03. Entwicklungsperspektiven sichtbar machen](#03-entwicklungsperspektiven-sichtbar-machen)
 - [04. Wenn engagierte Mitarbeitende plötzlich still werden](#04-wenn-engagierte-mitarbeitende-plötzlich-still-werden)
 - [10. Wenn Freiwilligkeit verschwindet](#10-wenn-freiwilligkeit-verschwindet)
 - [20. Plötzliche Anpassung kann ein Warnsignal sein](#20-plötzliche-anpassung-kann-ein-warnsignal-sein)
+
+---
 
 ### 03. Entwicklungsperspektiven sichtbar machen
 #### Beobachtung
