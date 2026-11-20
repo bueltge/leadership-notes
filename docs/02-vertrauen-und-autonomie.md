@@ -1,5 +1,9 @@
 # Vertrauen & Autonomie
 
+[← Zur Übersicht](../README.md)
+
+---
+
 Verantwortung kann nur entstehen, wenn Menschen tatsächlich Gestaltungsspielraum bekommen.
 
 ## Inhaltsverzeichnis
