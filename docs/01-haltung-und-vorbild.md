@@ -4,7 +4,7 @@
 
 ---
 
-Führung beginnt nicht bei Methoden. Sie beginnt beim eigenen Verhalten.
+> Führung beginnt nicht bei Methoden. Sie beginnt beim eigenen Verhalten.
 
 ## Inhaltsverzeichnis
 
