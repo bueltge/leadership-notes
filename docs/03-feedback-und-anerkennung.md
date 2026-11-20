@@ -4,7 +4,9 @@
 
 ---
 
-## Inhaltsverzeichnis
+> Anerkennung macht Wirkung sichtbar. Feedback macht Entwicklung möglich.
+
+## Inhalt
 
 - [06. Vages Feedback verändert wenig](#06-vages-feedback-verändert-wenig)
 - [07. „Tolle Arbeit“ ist oft zu wenig](#07-tolle-arbeit-ist-oft-zu-wenig)
