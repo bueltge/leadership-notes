@@ -1,7 +1,10 @@
 ## Prioritäten & Arbeitsorganisation
 
-[← Zur Übersicht](../README.md)  
-Priorisierung heißt nicht, alles wichtig zu machen. Sie heißt, bewusst zu entscheiden, was jetzt zählt und was dafür warten muss.
+[← Zur Übersicht](../README.md)
+
+---
+
+> Priorisierung heißt nicht, alles wichtig zu machen. Sie heißt, bewusst zu entscheiden, was jetzt zählt und was dafür warten muss.
 
 ### Inhalt
 - [11. Priorität braucht Konsequenzen](#11-priorität-braucht-konsequenzen)
@@ -9,6 +12,8 @@ Priorisierung heißt nicht, alles wichtig zu machen. Sie heißt, bewusst zu ents
 - [41. Ein voller Kalender ist kein Leistungsnachweis](#41-ein-voller-kalender-ist-kein-leistungsnachweis)
 - [46. Projekte mit einem Premortem beginnen](#46-projekte-mit-einem-premortem-beginnen)
 - [47. Erfolgskriterien für die eigene Entwicklung klären](#47-erfolgskriterien-für-die-eigene-entwicklung-klären)
+
+---
 
 ### 11. Priorität braucht Konsequenzen
 #### Beobachtung
