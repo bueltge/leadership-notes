@@ -4,6 +4,21 @@
 
 ---
 
+## Inhaltsverzeichnis
+
+- [02. Vom Selbermachen zum Befähigen](#02-vom-selbermachen-zum-befähigen)
+- [08. Aufgaben ohne Entscheidungsbefugnis sind keine echte Delegation](#08-aufgaben-ohne-entscheidungsbefugnis-sind-keine-echte-delegation)
+- [14. Entwicklung in überschaubaren Zeiträumen](#14-entwicklung-in-überschaubaren-zeiträumen)
+- [15. Das Warum gehört zur Aufgabe](#15-das-warum-gehört-zur-aufgabe)
+- [16. Nach Hindernissen statt nach Fertigstellung fragen](#16-nach-hindernissen-statt-nach-fertigstellung-fragen)
+- [18. Ehemalige Kolleginnen und Kollegen führen](#18-ehemalige-kolleginnen-und-kollegen-führen)
+- [29. Entwicklungschancen bewusst verteilen](#29-entwicklungschancen-bewusst-verteilen)
+- [34. Unterstützung konkret anbieten](#34-unterstützung-konkret-anbieten)
+- [43. Gute Leistung nicht ausschließlich mit mehr Arbeit belohnen](#43-gute-leistung-nicht-ausschließlich-mit-mehr-arbeit-belohnen)
+- [44. Wissen teilen statt Unersetzbarkeit anstreben](#44-wissen-teilen-statt-unersetzbarkeit-anstreben)
+
+---
+
 ## 02. Vom Selbermachen zum Befähigen
 
 ### Beobachtung
