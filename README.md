@@ -30,7 +30,7 @@ Ich erfülle diesen Anspruch nicht immer. Gerade deshalb habe ich ihn aufgeschri
 - [Die Sammlung: 7 Themenfelder](#die-sammlung)
 - [Wie diese Inhalte zu verstehen sind](#wie-diese-inhalte-zu-verstehen-sind)
 - [Mein Grundgedanke](#grundgedanke)
-- [Aufbau eines Impulses](#aufbau-eines-impulses)
+- [Muster; Aufbau eines Impulses](#aufbau-eines-impulses)
 
 ### Werkzeuge & Praxis
 
@@ -92,7 +92,7 @@ Oder kürzer:
 
 > **Führung zeigt sich nicht darin, wie abhängig Menschen von mir sind, sondern darin, was sie ohne mich erreichen können.**
 
-## Aufbau eines Impulses
+## Muster; Aufbau eines Impulses
 
 Die Beiträge folgen möglichst demselben Muster:
 
