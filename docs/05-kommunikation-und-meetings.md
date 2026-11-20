@@ -4,7 +4,7 @@
 
 ---
 
-## Inhaltsverzeichnis
+## Inhalt
 
 - [09. Ein 1-on-1 ist kein Statusmeeting](#09-ein-1-on-1-ist-kein-statusmeeting)
 - [30. „Macht das Sinn?“ überprüft wenig](#30-macht-das-sinn-überprüft-wenig)
