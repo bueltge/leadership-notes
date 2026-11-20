@@ -1,7 +1,10 @@
 ## Kommunikation & Meetings
 
-[← Zur Übersicht](../README.md)  
-Gute Kommunikation sorgt nicht dafür, dass alles gesagt wurde. Sie sorgt dafür, dass Menschen gehört haben, verstanden haben und handeln können.
+[← Zur Übersicht](../README.md)
+
+---
+
+> Gute Kommunikation sorgt nicht dafür, dass alles gesagt wurde. Sie sorgt dafür, dass Menschen gehört haben, verstanden haben und handeln können.
 
 ### Inhalt
 - [09. Ein 1-on-1 ist kein Statusmeeting](#09-ein-1-on-1-ist-kein-statusmeeting)
@@ -12,6 +15,8 @@ Gute Kommunikation sorgt nicht dafür, dass alles gesagt wurde. Sie sorgt dafür
 - [39. Aufmerksamkeit im 1-on-1](#39-aufmerksamkeit-im-1-on-1)
 - [40. Remote-Arbeit braucht bewussteren Kontakt](#40-remote-arbeit-braucht-bewussteren-kontakt)
 - [48. Meetings brauchen einen Zweck](#48-meetings-brauchen-einen-zweck)
+
+---
 
 ### 09. Ein 1-on-1 ist kein Statusmeeting
 #### Beobachtung
