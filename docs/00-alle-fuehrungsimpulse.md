@@ -1,9 +1,14 @@
 ## Alle Führungsimpulse
 
-Übersicht aller 49 Impulse in ihrer ursprünglichen Reihenfolge.  
 [← Zur Übersicht](../README.md)  
-Die thematischen Kapitel bündeln die Impulse nach Inhalt.
+
+---
+
+### Übersicht aller 49 Impulse in ihrer ursprünglichen Reihenfolge.  
+
+Die [thematischen Kapitel](../README.md#die-sammlung) bündeln die Impulse nach Inhalt.
 Diese Liste dient als numerischer Index von **01 bis 49** und führt direkt zum jeweiligen Impuls.
+
 - [Warum harte Arbeit allein nicht zu einer Beförderung führt](01-haltung-und-vorbild.md#01-harte-arbeit-allein-führt-nicht-automatisch-zu-einer-beförderung)
 - [Der erste Fehler, den viele neue Führungskräfte machen](04-delegation-und-entwicklung.md#02-vom-selbermachen-zum-befähigen)
 - [Warum jüngere Mitarbeitende bereits im ersten Jahr gehen können](07-bindung-motivation-und-gesundheit.md#03-entwicklungsperspektiven-sichtbar-machen)
