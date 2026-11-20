@@ -4,6 +4,16 @@
 
 ---
 
+## Inhaltsverzeichnis
+
+- [11. Priorität braucht Konsequenzen](#11-priorität-braucht-konsequenzen)
+- [33. „Kein Stress“ ist keine Priorisierung](#33-kein-stress-ist-keine-priorisierung)
+- [41. Ein voller Kalender ist kein Leistungsnachweis](#41-ein-voller-kalender-ist-kein-leistungsnachweis)
+- [46. Projekte mit einem Premortem beginnen](#46-projekte-mit-einem-premortem-beginnen)
+- [47. Erfolgskriterien für die eigene Entwicklung klären](#47-erfolgskriterien-für-die-eigene-entwicklung-klären)
+
+---
+
 ## 11. Priorität braucht Konsequenzen
 
 ### Beobachtung
