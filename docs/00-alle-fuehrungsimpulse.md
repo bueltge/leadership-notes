@@ -58,4 +58,7 @@ Diese Liste dient als numerischer Index von **01 bis 49** und führt direkt zum 
 - [Welche Frage du deiner Führungskraft vor dem nächsten Review stellen solltest](06-prioritaeten-und-arbeitsorganisation.md#47-erfolgskriterien-für-die-eigene-entwicklung-klären)
 - [Warum Meetings einen klaren Zweck brauchen](05-kommunikation-und-meetings.md#48-meetings-brauchen-einen-zweck)
 - [Warum „Sei proaktiver“ kein konkretes Feedback ist](03-feedback-und-anerkennung.md#49-sei-proaktiver-ist-kein-konkretes-feedback)  
+
+---
+
 [← Zurück zur README](../README.md)
