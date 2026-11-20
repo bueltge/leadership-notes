@@ -159,3 +159,5 @@ Führung verändert sich mit Erfahrung, Verantwortung und den Menschen, mit dene
 Gleiches gilt für die eingesetzten Werkzeuge. Nicht jede Methode passt zu jedem Menschen, jedem Team oder jeder Situation.
 
 Feedback, konstruktiver Widerspruch und andere Perspektiven sind deshalb ausdrücklich willkommen.
+
+Wenn du eigene Erfahrungen, Perspektiven oder neue Impulse beitragen möchtest, findest du Hinweise zur Zusammenarbeit, zur Nutzung von KI und zum Einbringen von Änderungen in der [CONTRIBUTING.md](CONTRIBUTING.md).
