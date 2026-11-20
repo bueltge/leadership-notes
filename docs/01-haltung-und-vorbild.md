@@ -1,7 +1,10 @@
 ## Haltung & Vorbild
 
-[← Zur Übersicht](../README.md)  
-Führung beginnt nicht bei Methoden. Sie beginnt beim eigenen Verhalten.
+[← Zur Übersicht](../README.md)
+
+---
+
+> Führung beginnt nicht bei Methoden. Sie beginnt beim eigenen Verhalten.
 
 ### Inhaltsverzeichnis
 - [01. Harte Arbeit allein führt nicht automatisch zu einer Beförderung](#01-harte-arbeit-allein-führt-nicht-automatisch-zu-einer-beförderung)
@@ -11,6 +14,8 @@ Führung beginnt nicht bei Methoden. Sie beginnt beim eigenen Verhalten.
 - [28. Eigene Fehler sichtbar machen](#28-eigene-fehler-sichtbar-machen)
 - [32. Kleine Versprechen sind nicht klein](#32-kleine-versprechen-sind-nicht-klein)
 - [42. Nichtwissen zuzugeben schafft Glaubwürdigkeit](#42-nichtwissen-zuzugeben-schafft-glaubwürdigkeit)
+
+---
 
 ### 01. Harte Arbeit allein führt nicht automatisch zu einer Beförderung
 
