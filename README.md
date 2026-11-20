@@ -14,6 +14,13 @@ Die Inhalte dieses Repositorys sind aus persönlichen Erfahrungen, Beobachtungen
 
 Ich erfülle diesen Anspruch nicht immer. Gerade deshalb habe ich ihn aufgeschrieben.
 
+## Alle 49 Führungsimpulse
+
+Die folgenden Kapitel bündeln meine Gedanken thematisch.  
+Wer die ursprünglichen Impulse in ihrer nummerischen Reihenfolge von 01 bis 49 lesen möchte, findet hier den vollständigen Index:
+
+➡️ [Alle 49 Führungsimpulse](docs/00-alle-fuehrungsimpulse.md
+
 ## Die Sammlung
 
 Die einzelnen Gedanken sind sieben Themenfeldern zugeordnet:
