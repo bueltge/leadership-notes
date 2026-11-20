@@ -4,6 +4,8 @@
 
 ---
 
+> Gute Kommunikation sorgt nicht dafür, dass alles gesagt wurde. Sie sorgt dafür, dass Menschen gehört haben, verstanden haben und handeln können.
+
 ## Inhalt
 
 - [09. Ein 1-on-1 ist kein Statusmeeting](#09-ein-1-on-1-ist-kein-statusmeeting)
