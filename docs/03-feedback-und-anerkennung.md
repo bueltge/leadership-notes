@@ -4,6 +4,20 @@
 
 ---
 
+## Inhaltsverzeichnis
+
+- [06. Vages Feedback verändert wenig](#06-vages-feedback-verändert-wenig)
+- [07. „Tolle Arbeit“ ist oft zu wenig](#07-tolle-arbeit-ist-oft-zu-wenig)
+- [13. Schwierige Gespräche nicht aufschieben](#13-schwierige-gespräche-nicht-aufschieben)
+- [17. Auch starke Mitarbeitende brauchen ehrliches Feedback](#17-auch-starke-mitarbeitende-brauchen-ehrliches-feedback)
+- [21. Anerkennung sollte konkrete Beiträge sichtbar machen](#21-anerkennung-sollte-konkrete-beiträge-sichtbar-machen)
+- [25. Feedback gehört in den Alltag](#25-feedback-gehört-in-den-alltag)
+- [26. Menschen miteinander zu vergleichen hilft selten](#26-menschen-miteinander-zu-vergleichen-hilft-selten)
+- [36. Lob und Kritik nicht künstlich vermischen](#36-lob-und-kritik-nicht-künstlich-vermischen)
+- [49. „Sei proaktiver“ ist kein konkretes Feedback](#49-sei-proaktiver-ist-kein-konkretes-feedback)
+
+---
+
 ## 06. Vages Feedback verändert wenig
 
 ### Beobachtung
