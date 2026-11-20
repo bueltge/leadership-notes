@@ -1,7 +1,10 @@
 ## Feedback & Anerkennung
 
-[← Zur Übersicht](../README.md)  
-Anerkennung macht Wirkung sichtbar. Feedback macht Entwicklung möglich.
+[← Zur Übersicht](../README.md)
+
+---
+
+> Anerkennung macht Wirkung sichtbar. Feedback macht Entwicklung möglich.
 
 ### Inhalt
 - [06. Vages Feedback verändert wenig](#06-vages-feedback-verändert-wenig)
@@ -13,6 +16,8 @@ Anerkennung macht Wirkung sichtbar. Feedback macht Entwicklung möglich.
 - [26. Menschen miteinander zu vergleichen hilft selten](#26-menschen-miteinander-zu-vergleichen-hilft-selten)
 - [36. Lob und Kritik nicht künstlich vermischen](#36-lob-und-kritik-nicht-künstlich-vermischen)
 - [49. „Sei proaktiver“ ist kein konkretes Feedback](#49-sei-proaktiver-ist-kein-konkretes-feedback)
+
+---
 
 ### 06. Vages Feedback verändert wenig
 #### Beobachtung
