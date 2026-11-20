@@ -4,7 +4,7 @@
 
 ---
 
-Verantwortung kann nur entstehen, wenn Menschen tatsächlich Gestaltungsspielraum bekommen.
+> Verantwortung kann nur entstehen, wenn Menschen tatsächlich Gestaltungsspielraum bekommen.
 
 ## Inhaltsverzeichnis
 
