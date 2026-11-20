@@ -4,7 +4,7 @@
 
 ## Mein Credo
 
-**Vorbild & Liebe.**
+> **Vorbild & Liebe.**
 
 Dieser Gedanke prägt vor allem meine Rolle als Vater. Gleichzeitig beeinflusst er mein Verständnis von Führung.
 
@@ -19,24 +19,18 @@ Ich erfülle diesen Anspruch nicht immer. Gerade deshalb habe ich ihn aufgeschri
 Die folgenden Kapitel bündeln meine Gedanken thematisch.  
 Wer die ursprünglichen Impulse in ihrer nummerischen Reihenfolge von 01 bis 49 lesen möchte, findet hier den vollständigen Index:
 
-➡️ [Alle 49 Führungsimpulse](docs/00-alle-fuehrungsimpulse.md
+➡️ [Alle 49 Führungsimpulse](docs/00-alle-fuehrungsimpulse.md)
 
 ## Die Sammlung
 
 Die einzelnen Gedanken sind sieben Themenfeldern zugeordnet:
 
 1. [Haltung & Vorbild](docs/01-haltung-und-vorbild.md)
-
 2. [Vertrauen & Autonomie](docs/02-vertrauen-und-autonomie.md)
-
 3. [Feedback & Anerkennung](docs/03-feedback-und-anerkennung.md)
-
 4. [Delegation & Entwicklung](docs/04-delegation-und-entwicklung.md)
-
 5. [Kommunikation & Meetings](docs/05-kommunikation-und-meetings.md)
-
 6. [Prioritäten & Arbeitsorganisation](docs/06-prioritaeten-und-arbeitsorganisation.md)
-
 7. [Bindung, Motivation & Gesundheit](docs/07-bindung-motivation-und-gesundheit.md)
 
 ## Wie diese Inhalte zu verstehen sind
@@ -54,21 +48,13 @@ Einige Beiträge beschäftigen sich mit Rückzug, Überlastung oder möglichen A
 Für mich bedeutet Führung:
 
 - voranzugehen, ohne andere zurückzulassen,
-
 - Orientierung zu geben, ohne alles vorzugeben,
-
 - Verantwortung zu übernehmen,
-
 - Verantwortung abzugeben,
-
 - Menschen stärker zu machen,
-
 - zuzuhören und Widerspruch auszuhalten,
-
 - Entscheidungen zu treffen,
-
 - eigene Fehler sichtbar zu machen,
-
 - Vertrauen durch das eigene Verhalten aufzubauen.
 
 Oder kürzer:
@@ -115,7 +101,7 @@ wirken können**.
 Für die digitale Nutzung habe ich eine eigene browserbasierte Variante
 erstellt:
 
-→ [Moving Motivators auf GitHub](https://github.com/bueltge/Moving-Motivators)
+➡️ [Moving Motivators auf GitHub](https://github.com/bueltge/Moving-Motivators)
 
 ## Quellen und Inspiration
 
@@ -125,7 +111,7 @@ Weitere Anregungen stammen unter anderem aus der Sammlung [Engineering Manager R
 
 Mehr zur Einordnung der Inhalte und zu den Quellen:
 
-[Quellen & Einordnung](docs/08-quellen-und-einordnung.md)
+➡️ [Quellen & Einordnung](docs/08-quellen-und-einordnung.md)
 
 ## Weiterentwicklung
 
