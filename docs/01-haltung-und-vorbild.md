@@ -2,6 +2,18 @@
 
 Führung beginnt nicht bei Methoden. Sie beginnt beim eigenen Verhalten.
 
+## Inhaltsverzeichnis
+
+- [01. Harte Arbeit allein führt nicht automatisch zu einer Beförderung](#01-harte-arbeit-allein-führt-nicht-automatisch-zu-einer-beförderung)
+- [12. Fremde Lorbeeren beschädigen Vertrauen](#12-fremde-lorbeeren-beschädigen-vertrauen)
+- [19. Nicht automatisch Ja zum eigenen Chef sagen](#19-nicht-automatisch-ja-zum-eigenen-chef-sagen)
+- [24. Was Nachrichten spät in der Nacht vermitteln](#24-was-nachrichten-spät-in-der-nacht-vermitteln)
+- [28. Eigene Fehler sichtbar machen](#28-eigene-fehler-sichtbar-machen)
+- [32. Kleine Versprechen sind nicht klein](#32-kleine-versprechen-sind-nicht-klein)
+- [42. Nichtwissen zuzugeben schafft Glaubwürdigkeit](#42-nichtwissen-zuzugeben-schafft-glaubwürdigkeit)
+
+---
+
 ## 01. Harte Arbeit allein führt nicht automatisch zu einer Beförderung
 
 ### Beobachtung
