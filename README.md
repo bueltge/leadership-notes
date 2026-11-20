@@ -14,10 +14,35 @@ Die Inhalte dieses Repositorys sind aus persönlichen Erfahrungen, Beobachtungen
 
 Ich erfülle diesen Anspruch nicht immer. Gerade deshalb habe ich ihn aufgeschrieben.
 
+---
+
+## Inhalt
+
+### Führung & Reflexion
+
+- [Alle 49 Führungsimpulse](#alle-49-führungsimpulse)
+- [Die Sammlung: 7 Themenfelder](#die-sammlung)
+- [Wie diese Inhalte zu verstehen sind](#wie-diese-inhalte-zu-verstehen-sind)
+- [Mein Grundgedanke](#grundgedanke)
+- [Aufbau eines Impulses](#aufbau-eines-impulses)
+
+### Werkzeuge & Praxis
+
+- [Werkzeuge, die ich in der Führung nutze](#werkzeuge-die-ich-in-der-führung-nutze)
+  - [Moving Motivators](#moving-motivators)
+
+### Hintergrund
+
+- [Quellen & Inspiration](#quellen-und-inspiration)
+- [Weiterentwicklung](#weiterentwicklung)
+
+---
+
 ## Alle 49 Führungsimpulse
 
-Die folgenden Kapitel bündeln meine Gedanken thematisch.  
-Wer die ursprünglichen Impulse in ihrer nummerischen Reihenfolge von 01 bis 49 lesen möchte, findet hier den vollständigen Index:
+Die folgenden Kapitel bündeln meine Gedanken thematisch.
+
+Wer die ursprünglichen Impulse in ihrer nummerischen Reihenfolge von **01 bis 49** lesen möchte, findet hier den vollständigen Index:
 
 ➡️ [Alle 49 Führungsimpulse](docs/00-alle-fuehrungsimpulse.md)
 
@@ -35,7 +60,7 @@ Die einzelnen Gedanken sind sieben Themenfeldern zugeordnet:
 
 ## Wie diese Inhalte zu verstehen sind
 
-Die Beiträge sind Impulse, keine Rezepte.
+Die Beiträge sind **Impulse, keine Rezepte**.
 
 Führung findet zwischen Menschen statt. Kontext, Persönlichkeit, Situation und Verantwortung spielen dabei immer eine Rolle.
 
@@ -65,43 +90,49 @@ Oder kürzer:
 
 Die Beiträge folgen möglichst demselben Muster:
 
-**Beobachtung** 
+### Beobachtung
 
 Was habe ich erlebt oder welches Muster sehe ich?
 
-**Führungsprinzip** 
+### Führungsprinzip
 
 Welche Konsequenz ziehe ich daraus für mein eigenes Verhalten?
 
-**Beispiel** 
+### Beispiel
 
 Wie könnte das im Alltag konkret aussehen?
 
-**Reflexionsfrage** 
+### Reflexionsfrage
 
 Welche Frage kann ich mir selbst dazu stellen?
 
+Für mich ist die Reflexionsfrage vielleicht sogar der wichtigste Teil.
+
+Denn diese Sammlung soll weniger erklären, **wie andere führen sollten**, sondern mich daran erinnern, **mein eigenes Verhalten immer wieder zu hinterfragen**.
+
+---
+
+# Werkzeuge & Praxis
+
 ## Werkzeuge, die ich in der Führung nutze
 
-Neben den hier beschriebenen Führungsimpulsen nutze ich auch konkrete
-Methoden und Werkzeuge, um Gespräche über Motivation, Zusammenarbeit
-und persönliche Entwicklung zu unterstützen.
+Prinzipien und Haltung sind die eine Seite von Führung. In konkreten Gesprächen helfen mir zusätzlich Methoden und Werkzeuge, um Themen wie Motivation, Entwicklung, Zusammenarbeit oder Veränderung greifbarer zu machen.
+
+Diese Werkzeuge verstehe ich nicht als Management-Rezepte. Sie sind **Gesprächsöffner und Reflexionshilfen**.
 
 ### Moving Motivators
 
-Ein Werkzeug, das ich insbesondere in Gesprächen mit Mitarbeitenden,
-Feedbackgesprächen und teilweise auch im Recruiting nutze, sind die
-[Moving Motivators](https://github.com/bueltge/Moving-Motivators).
+Ein Werkzeug, das ich insbesondere in Gesprächen mit Mitarbeitenden, Feedbackgesprächen und teilweise auch im Recruiting nutze, sind die [Moving Motivators](https://github.com/bueltge/Moving-Motivators).
 
-Sie helfen dabei, nicht nur darüber zu sprechen, **was** jemanden
-motiviert, sondern gemeinsam sichtbar zu machen, **welche Motivatoren
-für eine Person besonders wichtig sind und wie Veränderungen darauf
-wirken können**.
-
-Für die digitale Nutzung habe ich eine eigene browserbasierte Variante
-erstellt:
+Moving Motivators ist ein Ansatz, um über intrinsische Motivation und darüber zu reflektieren, wie Veränderungen auf persönliche Motivatoren wirken können. Meine eigene browserbasierte Umsetzung entstand insbesondere deshalb, weil ich die Methode auch in Remote-Gesprächen einsetzenbstrakten Gespräch über „Motivation“ ein wesentlich konkreterer Austausch entstehen.
 
 ➡️ [Moving Motivators auf GitHub](https://github.com/bueltge/Moving-Motivators)
+
+> **Werkzeuge helfen mir, Fragen zu stellen. Sie ersetzen nicht das Zuhören.**
+
+Weitere Werkzeuge, Methoden oder Übungen, die sich in meiner Führungspraxis bewähren, können diese Sammlung zukünftig ergänzen.
+
+---
 
 ## Quellen und Inspiration
 
@@ -119,4 +150,6 @@ Diese Sammlung ist bewusst nicht abgeschlossen.
 
 Führung verändert sich mit Erfahrung, Verantwortung und den Menschen, mit denen wir zusammenarbeiten. Entsprechend werden Gedanken ergänzt, verändert oder auch verworfen.
 
-Feedback und andere Perspektiven sind willkommen.
+Gleiches gilt für die eingesetzten Werkzeuge. Nicht jede Methode passt zu jedem Menschen, jedem Team oder jeder Situation.
+
+Feedback, konstruktiver Widerspruch und andere Perspektiven sind deshalb ausdrücklich willkommen.
