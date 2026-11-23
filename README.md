@@ -126,6 +126,8 @@ Prinzipien und Haltung sind die eine Seite von Führung. In konkreten Gespräche
 
 Diese Werkzeuge verstehe ich nicht als Management-Rezepte. Sie sind **Gesprächsöffner und Reflexionshilfen**.
 
+> **Werkzeuge helfen mir, Fragen zu stellen. Sie ersetzen nicht das Zuhören.**
+
 ### Moving Motivators
 
 Ein Werkzeug, das ich insbesondere in Gesprächen mit Mitarbeitenden, Feedbackgesprächen und teilweise auch im Recruiting nutze, sind die [Moving Motivators](https://github.com/bueltge/Moving-Motivators).
@@ -134,7 +136,15 @@ Moving Motivators ist ein Ansatz, um über intrinsische Motivation und darüber 
 
 ➡️ [Moving Motivators auf GitHub](https://github.com/bueltge/Moving-Motivators)
 
-> **Werkzeuge helfen mir, Fragen zu stellen. Sie ersetzen nicht das Zuhören.**
+### Fragebogen Führungsverständnis
+
+Der Führungssteckbrief ist ein strukturierter Fragenkatalog zur persönlichen Reflexion des eigenen Führungsverständnisses. Er unterstützt dabei, die eigene Haltung, Werte, Entscheidungsprinzipien und den Umgang mit Mitarbeitenden bewusst zu formulieren.
+
+Ziel ist ein persönliches, authentisches Führungsprofil: Wofür stehe ich als Führungskraft, wie möchte ich führen und was dürfen andere konkret von mir erwarten?
+
+➡️ [Fuehrungssteckbrief](./tools/Fuehrungssteckbrief.md)
+
+---
 
 Weitere Werkzeuge, Methoden oder Übungen, die sich in meiner Führungspraxis bewähren, können diese Sammlung zukünftig ergänzen.
 
@@ -161,3 +171,4 @@ Gleiches gilt für die eingesetzten Werkzeuge. Nicht jede Methode passt zu jedem
 Feedback, konstruktiver Widerspruch und andere Perspektiven sind deshalb ausdrücklich willkommen.
 
 Wenn du eigene Erfahrungen, Perspektiven oder neue Impulse beitragen möchtest, findest du Hinweise zur Zusammenarbeit, zur Nutzung von KI und zum Einbringen von Änderungen in der [CONTRIBUTING.md](CONTRIBUTING.md).
+
